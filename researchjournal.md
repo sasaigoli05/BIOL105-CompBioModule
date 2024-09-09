@@ -7,6 +7,7 @@
 - [ ] **Data Analysis and Interpretation:** Analyze the effects of changes in the protein sequence on its structure and function.
 - [ ] **Introduction to AI/ML/NLP in Biology:** Understand how artificial intelligence, machine learning, and natural language processing can be applied to biological data, specifically in predicting protein interactions and engineering proteins with desired traits.
 
+## Meeting Notes:
 ### Meeting 9/9/2024
 - Pre/Post Asessment
 - Condense to three learning objectives
