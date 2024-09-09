@@ -6,3 +6,11 @@
 - [ ] **Hands-On Experience with AlphaFold:** Use AlphaFold to predict protein structures based on different amino acid sequences.
 - [ ] **Data Analysis and Interpretation:** Analyze the effects of changes in the protein sequence on its structure and function.
 - [ ] **Introduction to AI/ML/NLP in Biology:** Understand how artificial intelligence, machine learning, and natural language processing can be applied to biological data, specifically in predicting protein interactions and engineering proteins with desired traits.
+
+### Meeting 9/9/2024
+- Pre/Post Asessment
+- Condense to three learning objectives
+- What happens if many people use or many proteins used at once
+- What is the application part of the activity
+- Condensing out all the extra PLDDT visualizations-- maybe just the color chart and the 3D structure
+- Figuring out what the preclass activity is: lecture demonstration, pick a peptide from X database/spreadsheet, binidng affinity design a binder
