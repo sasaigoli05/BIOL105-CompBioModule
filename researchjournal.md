@@ -1,11 +1,8 @@
 # BIOL 295 Journal
 ## Learning Objectives:
-- [ ] **Introduction to Bioinformatics and Computational Biology**: Understand the basics of protein structure and function, and how computational tools can predict and manipulate these structures.
-- [ ] **Programming Fundamentals:** Built and utilize basic programming skills in manipulating protein sequences and running computational simulations.
-- [ ] **Protein Engineering and Vaccine Development:** Learn how protein engineering can create modified proteins, including potential vaccines.
-- [ ] **Hands-On Experience with AlphaFold:** Use AlphaFold to predict protein structures based on different amino acid sequences.
+- [ ] **Introduction to Protein Engineering and Modeling**: Understand the basics of protein structure and function and learn how protein engineering can modify proteins in specific ways. 
+- [ ] **Programming Fundamentals:** Built and utilize basic programming skills in manipulating protein sequences and running computational simulations and machine learning models.
 - [ ] **Data Analysis and Interpretation:** Analyze the effects of changes in the protein sequence on its structure and function.
-- [ ] **Introduction to AI/ML/NLP in Biology:** Understand how artificial intelligence, machine learning, and natural language processing can be applied to biological data, specifically in predicting protein interactions and engineering proteins with desired traits.
 
 ## Meeting Notes:
 ### Meeting 9/9/2024
