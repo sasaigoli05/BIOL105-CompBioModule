@@ -13,6 +13,13 @@
 - Condensing out all the extra PLDDT visualizations-- maybe just the color chart and the 3D structure
 - Figuring out what the preclass activity is: lecture demonstration, pick a peptide from X database/spreadsheet, binidng affinity design a binder
 
+### Meeting 9/16/2024
+- Pre/Post Asessment - figure out what questions or type briefly to address 3/4 per LO
+- Play with activity get working -- see if can do a selection of types of kinases
+- Condensing out all the extra PLDDT visualizations-- maybe just the color chart and the 3D structure
+- Outline preclass video lecture
+- Find some kinases compatible with phosphormer, do a binder and break it
+
 ## Notes:
 - [Phosphormer ST webtool](https://phosformer.netlify.app/prediction)
 - [CHEM 430 Data Exploration Pre-Survey](https://docs.google.com/document/d/180h7wvOktOuYyfWFEZdq6IiwffVxg1ufk6Ni9Yt-scA/edit?usp=sharing)
