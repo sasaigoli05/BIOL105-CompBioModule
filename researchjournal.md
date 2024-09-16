@@ -16,3 +16,4 @@
 ## Notes:
 - [Phosphormer ST webtool](https://phosformer.netlify.app/prediction)
 - integrate phosphormer ST into collab with AlphaFold2
+- Aurora A kinase (AURKA) and its substrate TPX2. Regulating mitotic spindle-- implicated in Cancers. Binding domain of TPX2 by N-terminus (small). AURKA is ~400 residues.
