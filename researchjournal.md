@@ -19,4 +19,4 @@
 - Aurora A kinase (AURKA) and its substrate TPX2. Regulating mitotic spindle-- implicated in Cancers. Binding domain of TPX2 by N-terminus (small). AURKA is ~400 residues.
 - **Pre-class componen**t: introductory video lecture (short): show the collab fold, introduce LOs and "research question/problem". **Pre-class survey**: assessing prior knowledge/proficiency
 - **In-class**: fixing the "broken binder"
-- **Post-class: **post-class survey
+- **Post-class:** post-class survey
