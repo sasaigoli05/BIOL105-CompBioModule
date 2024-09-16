@@ -1,8 +1,8 @@
 # BIOL 295 Journal
 ## Learning Objectives:
-- [ ] **Introduction to Protein Engineering and Modeling**: Understand the basics of protein structure and function and learn how protein engineering can modify proteins in specific ways. 
-- [ ] **Programming Fundamentals:** Built and utilize basic programming skills in manipulating protein sequences and running computational simulations and machine learning models.
-- [ ] **Data Analysis and Interpretation:** Analyze the effects of changes in the protein sequence on its structure and function.
+- [ ] **Introduction to Protein Engineering and Modeling**: Explain the fundamentals of protein structure and function, and demonstrate how protein engineering techniques can be used to modify proteins in specific and purposeful ways. 
+- [ ] **Programming Fundamentals:** Apply introductory-level programming skills to manipulate protein sequences, run computational simulations, and implement machine learning models for protein analysis.
+- [ ] **Data Analysis and Interpretation:** Evaluate the effects of sequence alterations on **_X protein_** structure and function, using case studies and computational models to understand the impact of specific mutations.
 
 ## Meeting Notes:
 ### Meeting 9/9/2024
