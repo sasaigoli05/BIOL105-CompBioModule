@@ -12,3 +12,7 @@
 - What is the application part of the activity
 - Condensing out all the extra PLDDT visualizations-- maybe just the color chart and the 3D structure
 - Figuring out what the preclass activity is: lecture demonstration, pick a peptide from X database/spreadsheet, binidng affinity design a binder
+
+## Notes:
+- [Phosphormer ST webtool](https://phosformer.netlify.app/prediction)
+- integrate phosphormer ST into collab with AlphaFold2
