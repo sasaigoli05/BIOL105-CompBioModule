@@ -15,6 +15,7 @@
 
 ## Notes:
 - [Phosphormer ST webtool](https://phosformer.netlify.app/prediction)
+- [CHEM 430 Data Exploration Pre-Survey](https://docs.google.com/document/d/180h7wvOktOuYyfWFEZdq6IiwffVxg1ufk6Ni9Yt-scA/edit?usp=sharing)
 - integrate phosphormer ST into collab with AlphaFold2
 - Aurora A kinase (AURKA) and its substrate TPX2. Regulating mitotic spindle-- implicated in Cancers. Binding domain of TPX2 by N-terminus (small). AURKA is ~400 residues.
 - **Pre-class componen**t: introductory video lecture (short): show the collab fold, introduce LOs and "research question/problem". **Pre-class survey**: assessing prior knowledge/proficiency
